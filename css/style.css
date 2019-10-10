@@ -1545,7 +1545,7 @@ li.list-group-item1 {
 }
 
 .grid_3 {
-    margin-bottom: 2em;
+    margin-bottom: 25em;
 }
 
 .xs h3,
@@ -1905,6 +1905,42 @@ h2.typoh2 {
 .address-grid-wthree-agileits {
     text-align: center;
     margin: 0 auto;
+}
+
+.tausiah {
+    width: 100%;
+    background-color: white;
+}
+
+
+
+.li-group a {
+    color: #bfbfbf;
+}
+
+.li-group a:hover {
+    color: #50b577;
+}
+
+.ttl h4 {
+    color: #2d2d2d;
+}
+
+.li-head ul {
+    padding-left: 15px;
+
+}
+
+.list-group-item-info {
+    background-color: #EDE1EB;
+}
+
+.list-group {
+    width: 30%;
+    margin-left: -70px;
+    padding: 15px;
+    border: 0px;
+
 }
 
 .address-grid-wthree-agileits span {
