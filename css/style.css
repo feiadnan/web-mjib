@@ -1915,7 +1915,7 @@ h2.typoh2 {
 
 
 .li-group a {
-    color: #bfbfbf;
+    color: #979797;
 }
 
 .li-group a:hover {
@@ -1932,7 +1932,7 @@ h2.typoh2 {
 }
 
 .list-group-item-info {
-    background-color: #EDE1EB;
+    background-color: #E6E6FA;
 }
 
 .list-group {
@@ -2277,6 +2277,10 @@ h2.typoh2 {
     .top-left {
         float: right;
         width: 50%;
+    }
+
+    .li-head {
+        width: 100%;
     }
 }
 
